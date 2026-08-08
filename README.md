@@ -8,26 +8,26 @@ An independent data quality audit of NHS acute trust performance data across 134
 
 ## Data
 **Source:** [model.nhs.uk/acute-provider-performance], covering January-February 2026. [134 rows]
-Key Fields:
-Trust Code
-Trust Name
-Region (added via INDEX/MATCH enrichment)
-Trust Type (General Acute or Specialist — added during cleaning)
-Percentage waiting within 18 weeks for elective treatment (January 2026)
-Percentage waiting more than 52 weeks for elective treatment (January 2026)
-Cancer Faster Diagnosis Standard (January 2026)
-Cancer 62-day Combined Performance (January 2026)
-Diagnostics proportion waiting over 6 weeks (January 2026)
-A&E 4-hour performance (February 2026)
-A&E 12-hour performance — Provisional (February 2026)
-Below Average Count (calculated field added during analysis)
+**Key fields:**
+| Field | Period | Notes |
+|---|---|---|
+| Trust Code | — | Source |
+| Trust Name | — | Source |
+| Region | — | Added via INDEX/MATCH enrichment |
+| Trust Type | — | General Acute or Specialist, derived during cleaning |
+| RTT within 18 weeks (%) | Jan 2026 | Source |
+| RTT over 52 weeks (%) | Jan 2026 | Source |
+| Cancer Faster Diagnosis Standard | Jan 2026 | Source |
+| Cancer 62-day combined performance | Jan 2026 | Source |
+| Diagnostics waiting over 6 weeks (%) | Jan 2026 | Source |
+| A&E 4-hour performance | Feb 2026 | Source |
+| A&E 12-hour performance | Feb 2026 | Provisional |
+| Below Average Count | — | Calculated during analysis |
 
 ## Approach
 Cleaned and profiled in Excel, modelled and visualised in Power BI.
 Full audit log of issues found: [audit-log.md](audit-log.md)
 
-## Data quality findings
-22 issues identified, including [two or three of the most interesting ones]
 
 ## Dashboard
 ![Overview](screenshots/overview.png)
