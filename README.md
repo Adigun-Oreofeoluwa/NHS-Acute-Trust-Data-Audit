@@ -26,7 +26,7 @@ An independent data quality audit of NHS acute trust performance data across 134
 
 ## Approach
 Cleaned and profiled in Excel, modelled and visualised in Power BI.
-Full audit log of issues found: [audit-log.md](audit-log.md)
+Full audit log of issues found: [audit-log.md]()
 
 
 ## Dashboard
