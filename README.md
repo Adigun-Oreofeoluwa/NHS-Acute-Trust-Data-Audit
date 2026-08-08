@@ -30,8 +30,7 @@ Full audit log of issues found: [audit-log.md](audit-log.md)
 
 
 ## Dashboard
-![Overview](screenshots/overview.png)
-[One line on what this page shows]
+
 
 ## What I'd do differently
 [One honest paragraph]
