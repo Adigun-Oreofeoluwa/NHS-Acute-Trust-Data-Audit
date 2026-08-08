@@ -31,6 +31,10 @@ Full audit log of issues found: [audit-log.md](audit-log.md)
 
 ## Dashboard
 
+![Regional Performance](Screenshot-2.PNG)
 
-## What I'd do differently
-[One honest paragraph]
+[Average Underperformance Score by Region]
+
+![Metric Variation](Screenshot-3.PNG)
+
+[Metric Variation Across Trusts (Std Deviation)]
