@@ -4,7 +4,7 @@ Analysis of performance data across 134 NHS acute trusts, with a focus on
 data quality issues affecting reliability of published figures.
 
 ## The question
-[An independent data quality audit of NHS acute trust performance data across 134 trusts. The goal was to establish whether the dataset was reliable enough to draw meaningful conclusions from before conducting any analysis. Key findings included specialist trusts reporting N/R for metrics that did not apply to them, high variation in Diagnostics over 6 weeks flagged as a likely data collection inconsistency rather than a genuine performance difference, and four trusts consistently below average across six of seven metrics. Documented in a 22-entry audit log and visualised in a four-page Power BI dashboard.]
+An independent data quality audit of NHS acute trust performance data across 134 trusts. The goal was to establish whether the dataset was reliable enough to draw meaningful conclusions from before conducting any analysis. Key findings included specialist trusts reporting N/R for metrics that did not apply to them, high variation in Diagnostics over 6 weeks flagged as a likely data collection inconsistency rather than a genuine performance difference, and four trusts consistently below average across six of seven metrics. Documented in a 22-entry audit log and visualised in a four-page Power BI dashboard.
 
 ## Data
 Source: [https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/ae-attendances-and-emergency-admissions-2026-27/], covering [01/2026-02/2026]. [134 rows]
